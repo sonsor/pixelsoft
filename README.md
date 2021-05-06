@@ -3,7 +3,7 @@
 ### Setup
 
 close the repo
-````
+
 ```
 git clone https://github.com/sonsor/pixelsoft
 ```
